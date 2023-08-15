@@ -80,5 +80,6 @@ fixeds = """1 xs4_33 4 block
 96 xp96_y9668ye33k0gzyb1ot2y466y4su1y433zyc110gcoyg532zy1ggzy111yf6my5ggysg0gokczy1ow8yag60h03y411y740i6y939wd2zokc416w23y911y966y43ki01y8456zyh6a2yge24w11yf66zzyyssy4ggy5uezyn33y4250ky311y4120aggzyzw33yf11 177 p6 glider loop
 98 xp98_yd4rt1zyd1654y366zzy4ccyhko8x42agggggga24zz48a111111a84x235yh66zzyfccy34kcgzyognr4 86 p14 glider loop
 100 xp100_xg8sxey02596z0ghh1y680ooo08z0gy9n7qtq7nz3452 48 LCM(4,25)
-102 xp102_wehhhey0ggzy711woozy2sgh17z33wggzy011 38 LCM(6,17)"""
+102 xp102_wehhhey0ggzy711woozy2sgh17z33wggzy011 38 LCM(6,17)
+105 xp105_yl33y7sksssskszzyhca8zwvtvzw757yzxe24zyzyg33zggz11y58gsyzxo8ozyzydvfvzyx4kcyc111zzybeaeeeeaey7ggzyu11 84 p15 glider loop"""
 cfuncs = ()
